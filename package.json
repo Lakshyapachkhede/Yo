@@ -1,0 +1,23 @@
+{
+  "name": "mylang",
+  "version": "1.0.0",
+  "description": "this is a toy programming language with a fun touch to practice js and deepen knowledge",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lakshyapachkhede/Yo.git"
+  },
+  "keywords": [
+    "yo"
+  ],
+  "author": "Lakshya Pachkhede",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lakshyapachkhede/Yo/issues"
+  },
+  "homepage": "https://github.com/Lakshyapachkhede/Yo#readme",
+  "type": "module"
+}
